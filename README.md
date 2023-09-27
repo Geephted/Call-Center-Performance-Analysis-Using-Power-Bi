@@ -98,10 +98,3 @@ Reviewing recurrent cases in this analysis, support teams should trained for com
 
 ## Conclusion 
 The key performance indicators (KPIs) analyzed in this analysis provide valuable insights into the customer service operations. Customer complaints reveal areas of concern that require attention, while the average speed of answered calls measures the responsiveness. The total number of customer calls and monthly call trends helps to understand call volume fluctuations. Topics satisfactory ratings highlight areas of strength and improvement, while the average satisfaction score reflects overall customer contentment. By continuously monitoring and optimizing these KPIs, the customer service enhanced, drive efficiency, and maintain high levels of satisfaction, ultimately contributing to the success of the organization.
-
-[CLICK HERE TO HAVE HAVE ACCESS TO THE POWER BI FILE ]([](//github.com/Geephted/Call-Center-Performance-Analysis-Using-Power-Bi/blob/main/call%20center%20mine.pbix)https://github.com/Geephted/Call-Center-Performance-Analysis-Using-Power-Bi/blob/main/call%20center%20mine.pbix)
-
-[nAME ]([url](//github.com/Geephted/Call-Center-Performance-Analysis-Using-Power-Bi/blob/main/call%20center%20mine.pbix)https://github.com/Geephted/Call-Center-Performance-Analysis-Using-Power-Bi/blob/main/call%20center%20mine.pbix)
-
-
-
