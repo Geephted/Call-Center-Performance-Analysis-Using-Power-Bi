@@ -37,7 +37,7 @@ The essential Key Performance Indicators (KPIs) and metrics pertaining to the Ca
 A doughnut chart was employed to illustrate the distribution of complaints among various customers, showcasing the proportion of resolved and unresolved complaints by customers. This was achieved by including the "resolved" column in both the legend and value sections of the visualization, utilizing the count function to tally both resolved and unresolved cases.  
 Below is a screenshot of the resulting visualization:
  
-![](complaint.jpg)
+![](resolved.jpg)
 
 
 - Insight 
@@ -48,13 +48,13 @@ This analysis indicates that a substantial portion of cases, 72.92%, have been s
 To compute the average speed, I initiated the process by selecting the "Card" option within the "Build Visual" section of the visualization menu. Next, I dragged the "Speed of Answering" column into the "Fields" section. Then, I accessed the dropdown menu adjacent to the "Fields" section and chose the "Average" option from the available selections.
 Below is a screenshot of the resulting visualization:
 
-![](avaeragespeed.jpg)
+![](avgAnswered.jpg)
 
 ### Numbers of Customer calls 
 A doughnut chart was utilized to depict the distribution of calls across different customers, highlighting the ratio of answered and unanswered calls. This was accomplished by incorporating the "Answered(Y/N)" column in both the legend and value sections of the visualization, and employing the count function to calculate the totals for both answered and unanswered calls.
 Below is a screenshot of the resulting visualization:
 
-![](customerscalls.jpg)
+![](Answered.jpg)
 
 - Insight
   
@@ -64,7 +64,7 @@ The chart shows that the majority, 81.08% calls, were answered, indicating effic
 To determine the monthly call volume, I utilized a clustered bar chart. Firstly, I positioned the date column on the y-axis and applied a hierarchy to select "month" for a monthly breakdown of calls. Then, I placed the "call id" column on the x-axis and used the count function to quantify the call IDs. Finally, I added the "answered (Y/N)" column to the legend section of the visualization for additional context.
 Below is a screenshot illustrating the resulting visualization.
 
-![](customermonthly.jpg)
+![](monthlycalls.jpg)
 
 - Insight
   
@@ -74,7 +74,7 @@ The above visualization shows monthly call statistics. January had the highest n
 Using a line chart, I identified the topics that received the highest satisfaction ratings from customers. To do this, I placed the "Topic" column on the x-axis and used the satisfaction rating on the y-axis. I applied the sum function from the y-axis dropdown menu to aggregate topics based on their satisfaction ratings. 
 Below is a screenshot of the resulting visualization:
 
-![](topics.jpg)
+![](ratings.jpg)
 
 - Insight
   
@@ -83,7 +83,7 @@ The visualization reveals that "Streaming" received the highest satisfaction rat
 ### Average Satisfaction. 
 To calculate the average customer satisfaction, I began by selecting the "Gauge" option in the "Build Visual" section of the visualization menu. Then, I placed the "satisfaction" column in the "Value" section. Lastly, I chose the "Average" option from the dropdown menu next to the "Value" section. You can see the resulting visualization in the screenshot below: 
 
-![](AvaeraSat.jpg)
+![](Gauge.jpg)
 
 ## Tool Used 
 This analysis was conducted utilizing Power BI.
@@ -91,7 +91,7 @@ This analysis was conducted utilizing Power BI.
 ## Dashboard 
 This dashboard is created to visually depict and present all pertinent Key Performance Indicators (KPIs) and metrics within the dataset
 
-![](dashboard..jpg)
+![](dashboard.jpg)
 
 ## Recommendations
 Reviewing recurrent cases in this analysis, support teams should trained for complex issues. Streamlining processes for quicker resolution, collecting feedback from unresolved cases, and maintaining quality checks are essential. Additionally, prioritize response time reduction, critical call handling, and support team training. Implement a feedback system to address unanswered calls and enhance satisfaction, with a focus on improving "Admin Support" and "Contract related" areas.
