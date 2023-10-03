@@ -68,7 +68,7 @@ Below is a screenshot illustrating the resulting visualization.
 
 - Insight
   
-The above visualization shows monthly call statistics. January had the highest number of calls, with 1455 answered and 317 not answered. February had 1298 answered and 318 not answered, while March had 1301 answered and 311 not answered. Monitoring unanswered calls and improving response rates can enhance service quality.
+The data reveals that different topics received similar average ratings, all hovering around 2.7 to 2.8. The star ratings assigned to Technical Support, Streaming, Payment related, Contract related, and Admin Support are consistently three stars (⭐⭐⭐), suggesting a moderate level of satisfaction across these categories. Further analysis may be needed to understand why these ratings are not higher and identify areas for potential improvement in customer satisfaction.
 
 ### Topic Satisfactory Ratings 
 Using a line chart, I identified the topics that received the highest satisfaction ratings from customers. To do this, I placed the "Topic" column on the x-axis and used the satisfaction rating on the y-axis. I applied the sum function from the y-axis dropdown menu to aggregate topics based on their satisfaction ratings. 
