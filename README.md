@@ -71,14 +71,14 @@ Below is a screenshot illustrating the resulting visualization.
 The data reveals that different topics received similar average ratings, all hovering around 2.7 to 2.8. The star ratings assigned to Technical Support, Streaming, Payment related, Contract related, and Admin Support are consistently three stars (⭐⭐⭐), suggesting a moderate level of satisfaction across these categories. Further analysis may be needed to understand why these ratings are not higher and identify areas for potential improvement in customer satisfaction.
 
 ### Topic Satisfactory Ratings 
-Using a line chart, I identified the topics that received the highest satisfaction ratings from customers. To do this, I placed the "Topic" column on the x-axis and used the satisfaction rating on the y-axis. I applied the sum function from the y-axis dropdown menu to aggregate topics based on their satisfaction ratings. 
+I initiated the procedure by generating a new table that contained data from the Topic and Satisfactory Rating columns. Subsequently, I applied the group-by function to compute the average rating within each category, forming the new table. To create star ratings for each category, I employed a DAX function: Ratings = REPT("⭐", 'Sheet1 (2)'[Average Ratings ]).
 Below is a screenshot of the resulting visualization:
 
 ![](ratings.jpg)
 
 - Insight
   
-The visualization reveals that "Streaming" received the highest satisfaction rating at 2882, indicating positive feedback. Meanwhile, "Contract related" at 2665 had the lowest rating, signaling potential areas of concern. It's evident that while streaming services are appreciated, contract-related issues might need more attention to enhance overall satisfaction.
+The data reveals that different topics received similar average ratings, all hovering around 2.7 to 2.8. The star ratings assigned to Technical Support, Streaming, Payment related, Contract related, and Admin Support are consistently three stars (⭐⭐⭐), suggesting a moderate level of satisfaction across these categories. Further analysis may be needed to understand why these ratings are not higher and identify areas for potential improvement in customer satisfaction.
 
 ### Average Satisfaction. 
 To calculate the average customer satisfaction, I began by selecting the "Gauge" option in the "Build Visual" section of the visualization menu. Then, I placed the "satisfaction" column in the "Value" section. Lastly, I chose the "Average" option from the dropdown menu next to the "Value" section. You can see the resulting visualization in the screenshot below: 
