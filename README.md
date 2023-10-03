@@ -91,7 +91,7 @@ This analysis was conducted utilizing Power BI.
 ## Dashboard 
 This dashboard is created to visually depict and present all pertinent Key Performance Indicators (KPIs) and metrics within the dataset
 
-![](dashboard1.jpg)
+![](dashboard2.jpg)
 
 ## Recommendations
 Reviewing recurrent cases in this analysis, support teams should trained for complex issues. Streamlining processes for quicker resolution, collecting feedback from unresolved cases, and maintaining quality checks are essential. Additionally, prioritize response time reduction, critical call handling, and support team training. Implement a feedback system to address unanswered calls and enhance satisfaction, with a focus on improving "Admin Support" and "Contract related" areas.
